@@ -1,0 +1,11 @@
+{
+   "weatherAPI":{
+      "api_key":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "cityID":"xxxxxxx"
+   },
+   "homeCoordinates":{
+      "departureID":"xxxxxxxxx",
+      "departureLatitude":"xx.xxxx",
+      "departureLongitude":"xx.xxxxxx"
+   }
+}
